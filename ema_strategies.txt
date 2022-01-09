@@ -1,0 +1,8 @@
+too short: 7-14 (0-30 days)
+short: 14-21 (1-6 months)
+medium: 22-50 (6-12 months)
+medium-long: 50-100
+long: 100-200 (+1 year)
+
+golden cross: 50 intersect 200 from bottom bullish
+death cross: 50 intersect 200 from top bearish
